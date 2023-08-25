@@ -1,0 +1,15 @@
+asgiref==3.7.2
+cffi==1.15.1
+cryptography==41.0.3
+Django==4.2.4
+djangorestframework==3.14.0
+drf-yasg==1.21.7
+inflection==0.5.1
+packaging==23.1
+pycparser==2.21
+PyJWT==2.8.0
+pytz==2023.3
+PyYAML==6.0.1
+sqlparse==0.4.4
+typing_extensions==4.7.1
+uritemplate==4.1.1
